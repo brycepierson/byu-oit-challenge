@@ -1,0 +1,16 @@
+[
+  {
+    "name": "movies",
+    "path": "/movies",
+    "component": "/workspaces/BYU-OIT-Challenge/client/pages/movies.vue",
+    "chunkName": "pages/movies",
+    "_name": "_038dcea4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/workspaces/BYU-OIT-Challenge/client/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_593231fe"
+  }
+]
