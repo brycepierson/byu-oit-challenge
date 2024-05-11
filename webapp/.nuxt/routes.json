@@ -2,15 +2,15 @@
   {
     "name": "movies",
     "path": "/movies",
-    "component": "/workspaces/BYU-OIT-Challenge/client/pages/movies.vue",
+    "component": "/workspaces/BYU-OIT-Challenge/webapp/pages/movies.vue",
     "chunkName": "pages/movies",
-    "_name": "_038dcea4"
+    "_name": "_97c64f3c"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/workspaces/BYU-OIT-Challenge/client/pages/index.vue",
+    "component": "/workspaces/BYU-OIT-Challenge/webapp/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_593231fe"
+    "_name": "_8fdea4fa"
   }
 ]

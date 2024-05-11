@@ -1,5 +1,15 @@
-## License
+I was not able to get the full thing working. I got the back end running but the hot refresh on my vue front-end was not working for some reason.  That slowed down my development a lot.
 
-Copyright (c) Microsoft Corporation. All rights reserved.
+I spent about 2 hours just getting the two project skeletons set up. I have had no experience with any of these tools before. Once I got them set up, I started with the backend and got that API working before starting the front end.
 
-Licensed under the MIT License. See [LICENSE](https://github.com/Microsoft/vscode-dev-containers/blob/master/LICENSE).
+To start back end:
+
+DEBUG=webservice:* npm start
+
+runs on localhost port 3000
+
+To start front-end (not working):
+
+yarn dev
+
+runs on localhost port 8000
